@@ -13,4 +13,4 @@
 ![Alt text](./image-processing-2/assets/image-4.png)
 
 Видеопоток
-![Alt text](./image-processing-2/assets/image-5.png)
+![Alt text](image-processing-2\assets\image-5.png)
