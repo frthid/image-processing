@@ -1,3 +1,6 @@
-## Практическое задание 3
+## Практические задания по обработке изображений
 
-![Alt text](./image-processing-3/assets/image.png)
+```
+git clone https://github.com/frthid/image-processing
+git switch image-processing-<Номер задания>
+```
